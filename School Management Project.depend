@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1643648504 source:d:\programs\school management project\main.cpp
+	<iostream>
+	<string.h>
+
