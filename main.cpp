@@ -717,7 +717,6 @@ class PostMenu
 
 int main()
 {
-
     cout << "::Welcome To School Management System::" << endl;
     PostMenu pm;
     pm.setPost();
