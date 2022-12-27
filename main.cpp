@@ -170,7 +170,7 @@ public:
         cout << "Enter Your Password: ";
         cin >> adUserPassword;
 
-        if (adUserName == "Admin" && adUserPassword == "1234")
+        if (adUserName == "Admin" && adUserPassword == "abc")
         {
             cout << "Welcome Admin!\n";
         }
